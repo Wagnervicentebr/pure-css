@@ -1,5 +1,6 @@
 # Pure-css
 
-Challenge de 30 dias de css #30diasDeCSS
+30 Challenge de css #30ChallegeDeCSS
 
-# Day-1 redes sociais em camadas - 23/07/2020
+# Challenge-1 Redes sociais em camadas 
+# Challenge-2 Loading
